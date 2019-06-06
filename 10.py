@@ -1,2 +1,2 @@
-o=input()
-print(len(o))
+jx=input()
+print(len(jx))
